@@ -1,12 +1,14 @@
 # N'yillah Borteh Conteh 905005504
-#Web Design Assignment 1 Repository
-##Home Page-Sketch and Wireframe
+
+# Web Design Assignment 1 Repository
+
+## Home Page-Sketch and Wireframe
 ![WhatsApp Image 2025-11-03 at 19 32 22_165dedf6](https://github.com/user-attachments/assets/db1eed92-54d7-4b7a-909f-72b4949c2bcc)
 ![WhatsApp Image 2025-11-03 at 19 32 27_702ebad6](https://github.com/user-attachments/assets/7aa51c77-ad5a-4f40-883a-e5b52aff4659)
-##Players Page-Sketch and Wireframe
+## Players Page-Sketch and Wireframe
 ![WhatsApp Image 2025-11-03 at 19 32 23_16a7e7ad](https://github.com/user-attachments/assets/4c07166c-291d-4b95-9886-f22ee2375147)
 ![WhatsApp Image 2025-11-03 at 19 32 28_7fa6946f](https://github.com/user-attachments/assets/2cbaffba-9af3-451b-b84f-d1d40756a451)
-##Matches Page -Sketch and Wireframe
+## Matches Page -Sketch and Wireframe
 ![WhatsApp Image 2025-11-03 at 19 32 23_40ce69fc](https://github.com/user-attachments/assets/260333b3-2c78-4e08-a4e9-e63f88e807ad)
 ![WhatsApp Image 2025-11-03 at fgbfr](https://github.com/user-attachments/assets/b939ecf2-db80-4ab7-9604-92bd854389eb)
 ##About Us Page- Sketch and Wireframe
